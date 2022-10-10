@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryaoctav
-- 👀 I’m interested in business intelligence
+- 👀 I’m a novice data enthusiast
 - 🌱 I’m currently learning sql and python
 - 💞️ I’m looking to collaborate on any data analyst project
 - 📫 How to reach me instagram @arya.oc
